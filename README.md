@@ -8,10 +8,10 @@
 
 <h4 align="center">
 
-<a href="https://www.yuque.com/gargantuax/openscrm/txlx9s" target="_blank">文档</a> |
+<a href="https://github.com/openscrm/api-server/wiki" target="_blank">文档</a> |
 [截图](#项目截图) |
 <a href="http://dashboard.demo.openscrm.cn:8000/" target="_blank">演示</a> |
-<a href="https://www.yuque.com/gargantuax/openscrm/zioec5" target="_blank">安装</a> 
+<a href="https://github.com/openscrm/api-server/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B" target="_blank">安装</a> 
 
 </h4>
 
@@ -52,12 +52,6 @@
 ![](https://openscrm.oss-cn-hangzhou.aliyuncs.com/public/screenshots/%E5%AE%A2%E6%88%B7%E6%A0%87%E7%AD%BE%E7%AE%A1%E7%90%86.png)
 ![](https://openscrm.oss-cn-hangzhou.aliyuncs.com/public/screenshots/%E4%BF%AE%E6%94%B9%E7%BE%A4%E5%8F%91.png)
 ![](https://openscrm.oss-cn-hangzhou.aliyuncs.com/public/screenshots/%E4%BF%AE%E6%94%B9%E6%AC%A2%E8%BF%8E%E8%AF%AD.png)
-
-### 联系作者加入交流群
-
-<img src="https://openscrm.oss-cn-hangzhou.aliyuncs.com/public/screenshots/qrcode.png" width="200" />
-
-扫码可加入交流群
 
 ### 技术栈
 #### 后端技术栈
@@ -137,16 +131,10 @@
 ```
 
 ### 安装教程
-https://www.yuque.com/gargantuax/openscrm/zioec5
+https://github.com/openscrm/api-server/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B
 
 ### Api调试
 `docs目录包含postman导出文件，可方便调试api`
-
-### 联系作者
-
-<img src="https://openscrm.oss-cn-hangzhou.aliyuncs.com/public/screenshots/qrcode.png" width="200" />
-
-扫码可加入交流群
 
 ### 版权声明
 
